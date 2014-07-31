@@ -20,6 +20,4 @@ $(document).ready(function() {
 			$("#temp_image").attr("src", "images/sunny.gif");
 		}
 	});
-	
-	$("#temp_type").append("hello");
 });
